@@ -1,0 +1,15 @@
+{"phone": "+447700900101", "sessionId": "wa_sess_abc1def2ghi3", "status": "active"}
+{"phone": "+447700900102", "sessionId": "wa_sess_jkl4mno5pqr6", "status": "closed"}
+{"phone": "+447700900103", "sessionId": "wa_sess_stu7vwx8yz90", "status": "active"}
+{"phone": "+447700900104", "sessionId": "wa_sess_bcd1efg2hij3", "status": "closed"}
+{"phone": "+447700900105", "sessionId": "wa_sess_klm4nop5qrs6", "status": "active"}
+{"phone": "+447700900106", "sessionId": "wa_sess_tuv7wxy8zab9", "status": "closed"}
+{"phone": "+447700900107", "sessionId": "wa_sess_cde0fgh1ijk2", "status": "pending"}
+{"phone": "+447700900108", "sessionId": "wa_sess_lmn3opq4rst5", "status": "active"}
+{"phone": "+447700900109", "sessionId": "wa_sess_uvw6xyz7abc8", "status": "closed"}
+{"phone": "+447700900110", "sessionId": "wa_sess_def9ghi0jkl1", "status": "pending"}
+{"phone": "+447700900111", "sessionId": "wa_sess_mno2pqr3stu4", "status": "active"}
+{"phone": "+447700900112", "sessionId": "wa_sess_vwx5yza6bcd7", "status": "closed"}
+{"phone": "+447700900113", "sessionId": "wa_sess_efg8hij9klm0", "status": "active"}
+{"phone": "+447700900114", "sessionId": "wa_sess_nop1qrs2tuv3", "status": "pending"}
+{"phone": "+447700900115", "sessionId": "wa_sess_wxy4zab5cde6", "status": "closed"}

@@ -1,0 +1,30 @@
+{"userId": "cust_1", "providerId": "prov_4", "status": "closed", "startedAt": 1700000000000, "endedAt": 1700003600000}
+{"userId": "cust_2", "providerId": "prov_3", "status": "closed", "startedAt": 1700086400000, "endedAt": 1700089200000}
+{"userId": "cust_3", "providerId": "prov_1", "status": "active", "startedAt": 1700172800000}
+{"userId": "cust_4", "status": "active", "startedAt": 1700259200000}
+{"userId": "cust_5", "providerId": "prov_2", "status": "closed", "startedAt": 1700345600000, "endedAt": 1700347200000}
+{"userId": "cust_6", "providerId": "prov_5", "status": "closed", "startedAt": 1700432000000, "endedAt": 1700435600000}
+{"userId": "cust_7", "status": "active", "startedAt": 1700518400000}
+{"userId": "cust_8", "providerId": "prov_15", "status": "escalated", "startedAt": 1700604800000}
+{"userId": "cust_9", "providerId": "prov_20", "status": "closed", "startedAt": 1700691200000, "endedAt": 1700694800000}
+{"userId": "cust_10", "providerId": "prov_7", "status": "closed", "startedAt": 1700777600000, "endedAt": 1700779200000}
+{"userId": "cust_11", "status": "active", "startedAt": 1700864000000}
+{"userId": "cust_12", "providerId": "prov_14", "status": "escalated", "startedAt": 1700950400000}
+{"userId": "cust_13", "providerId": "prov_17", "status": "closed", "startedAt": 1701036800000, "endedAt": 1701040400000}
+{"userId": "cust_14", "status": "active", "startedAt": 1701123200000}
+{"userId": "cust_15", "providerId": "prov_9", "status": "active", "startedAt": 1701209600000}
+{"userId": "cust_16", "providerId": "prov_28", "status": "closed", "startedAt": 1701296000000, "endedAt": 1701298400000}
+{"userId": "cust_17", "providerId": "prov_6", "status": "closed", "startedAt": 1701382400000, "endedAt": 1701385200000}
+{"userId": "cust_18", "status": "active", "startedAt": 1701468800000}
+{"userId": "cust_19", "providerId": "prov_25", "status": "escalated", "startedAt": 1701555200000}
+{"userId": "cust_20", "providerId": "prov_26", "status": "closed", "startedAt": 1701641600000, "endedAt": 1701643200000}
+{"userId": "cust_21", "status": "active", "startedAt": 1701728000000}
+{"userId": "cust_22", "providerId": "prov_24", "status": "active", "startedAt": 1701814400000}
+{"userId": "cust_23", "providerId": "prov_19", "status": "closed", "startedAt": 1701900800000, "endedAt": 1701903600000}
+{"userId": "cust_24", "providerId": "prov_5", "status": "closed", "startedAt": 1701987200000, "endedAt": 1701988800000}
+{"userId": "cust_25", "status": "active", "startedAt": 1702073600000}
+{"userId": "cust_26", "providerId": "prov_16", "status": "escalated", "startedAt": 1702160000000}
+{"userId": "cust_27", "providerId": "prov_12", "status": "closed", "startedAt": 1702246400000, "endedAt": 1702249200000}
+{"userId": "cust_28", "providerId": "prov_18", "status": "closed", "startedAt": 1702332800000, "endedAt": 1702335600000}
+{"userId": "cust_29", "status": "active", "startedAt": 1702419200000}
+{"userId": "cust_30", "providerId": "prov_30", "status": "active", "startedAt": 1702505600000}
